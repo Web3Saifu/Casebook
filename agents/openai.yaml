@@ -1,0 +1,4 @@
+interface:
+  display_name: "Casebook"
+  short_description: "Live inside a source-grounded protocol mystery"
+  default_prompt: "Use $casebook to begin a Bengali Sherlock-style journey through this protocol."
